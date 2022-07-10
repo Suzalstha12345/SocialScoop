@@ -1,1 +1,8 @@
 node_modules
+
+-backend/models/addFriendModel.js
+-backend/models/commentOnPost.js
+-backend/models/followModel.js
+-backend/models/messageModel.js
+-backend/models/userModel.js
+
